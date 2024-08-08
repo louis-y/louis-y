@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Louis!
 
-<!--
-**louis-y/louis-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not a developer. 
 
-Here are some ideas to get you started:
+This is just for fun. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Want to know more?
+
+I'm a designer and illustrator based in Vancouver. I'm currently in my third year at the IDEA School of Design at Capilano University.
+
+You can check out my work at [**louis-yau.com**](https://www.louis-yau.com) 
+
+Feel free to contact me for any inquiries!
