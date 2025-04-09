@@ -1,13 +1,12 @@
-### Hi, I'm Louis!
+### Hi, I'm Louis 👋
 
-I'm not a developer. 
+I’m a designer who builds things.
 
-This is just for fun. 
+This space is where I experiment with ideas—interaction, motion, creative coding, and the occasional weird side project. I'm not a developer, but I enjoy exploring how design and technology intersect.
 
-### Want to know more?
+### Want to see more of what I do?
 
-I'm a designer and illustrator based in Vancouver. I'm currently in my third year at the IDEA School of Design at Capilano University.
+Check out [**louis-yau.com**](https://www.louis-yau.com) 
 
-You can check out my work at [**louis-yau.com**](https://www.louis-yau.com) 
+Or reach out—I'm always open to conversations.
 
-Feel free to contact me for any inquiries!
