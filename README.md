@@ -1,12 +1,12 @@
 ### Hi, I'm Louis 👋
 
-I’m a designer who builds things.
+I’m a visual designer who likes to explore how design and technology intersect.
 
-This space is where I experiment with ideas—interaction, motion, creative coding, and the occasional weird side project. I'm not a developer, but I enjoy exploring how design and technology intersect.
+This space is where I experiment with ideas.
 
 ### Want to see more of what I do?
 
-Check out [**louis-yau.com**](https://www.louis-yau.com) 
+Check out [**loupandthesky.com**](https://www.loupandthesky.com) 
 
-Or reach out—I'm always open to conversations.
+Or reach out! I'm always open to conversations.
 
